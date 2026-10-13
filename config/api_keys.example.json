@@ -1,0 +1,11 @@
+{
+    "gemini_api_key": "YOUR_GEMINI_API_KEY_HERE",
+    "os_system": "windows",
+    "camera_index": 0,
+    "voice_name": "Fenrir",
+    "assistant_name": "ZEETA",
+    "user_name": "DHANEESH",
+    "ui_color": "#00f5ff",
+    "input_device": "",
+    "output_device": ""
+}
